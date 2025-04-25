@@ -37,7 +37,7 @@ You'll be building the following tables for your e-commerce platform 🛍️:
 
 🧪 ***attribute_type*** – Defines types of attributes (e.g., text, number, boolean)
 
-The PDF document [Ecommerce Database Relationships](documents/Ecommerce Database Relationships.pdf
-)  is also available in which relationships between the tables 
+The PDF document [Ecommerce Database Relationships](documents/Ecommerce Database Relationships.pdf)
+is also available in which relationships between the tables 
 are clearly visualized.
 
