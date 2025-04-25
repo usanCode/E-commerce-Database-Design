@@ -13,7 +13,7 @@ all transactions that can be carried out have to be implemented
 
 You'll be building the following tables for your e-commerce platform 🛍️:
 
-🖼️ product_image – Stores product image URLs or file references
+🖼️ ***product_image*** – Stores product image URLs or file references
 
 🎨 color – Manages available color options
 
